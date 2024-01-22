@@ -1,0 +1,9 @@
+.image-item {
+  list-style-type: none;
+}
+
+.thumbnail-img {
+  width: 120px;
+  height: 120px;
+  padding: 5px;
+}
